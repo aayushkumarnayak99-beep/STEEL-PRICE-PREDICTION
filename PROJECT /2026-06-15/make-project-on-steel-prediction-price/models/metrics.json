@@ -1,0 +1,6 @@
+{
+  "mean_absolute_error_inr_per_ton": 1737.92,
+  "r2_score": 0.7399,
+  "training_rows": 192,
+  "test_rows": 48
+}
